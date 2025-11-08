@@ -39,7 +39,10 @@
   - **Distance**: 1
   - **Check Gateway**: Ping
   - **Click OK**
+
+  ```markdown
     /ip route add dst-address=0.0.0.0/0 gateway=49.156.43.89 check-gateway=ping distance=1
+  ```
  ## Image:
     
   ### Add Route ISP2
