@@ -44,7 +44,8 @@
     /ip route add dst-address=0.0.0.0/0 gateway=49.156.43.89 check-gateway=ping distance=1
   ```
  ## Image:
-    
+  ![App Screenshot](image/route isp1.png)
+
   ### Add Route ISP2
   **Click on IP: Route —> Add**
   - **Destination**: 0.0.0.0/0
