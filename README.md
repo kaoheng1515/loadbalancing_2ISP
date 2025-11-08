@@ -26,6 +26,9 @@
 | Step 8   | [**Add Route to ISP**](#ssl-vpn)  Upcoming..| 
 | Step 9   | [****](#Upcoming) Upcoming.. |
 
-## Getting Started
+# Getting Started: 
+    1. ISP1 Ip address 49.156.43.94/29 Default Gateway 49.156.43.89
+    2. ISP2  Ip address 96.9.66.101/25 Default Gateway 96.9.66.101
 # Step 1
     ## Add IP Route
+    
