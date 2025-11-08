@@ -4,3 +4,27 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/kaoheng1515/loadbalancing_2ISP?style=flat)
 ![ViewCount](https://views.whatilearened.today/views/github/kaoheng1515/loadbalancing_2ISP.svg?cache=remove)
 
+<br>
+
+[![telegram (1)](https://github.com/hegdepavankumar/VMware-ESXi-License-Keys/assets/85627085/cbc449b9-ddda-4d84-8c5e-5c77e29f89ed)](https://t.me/server_networ_opensource)
+
+<br>
+
+# Topics to be covered:
+
+---
+
+| No | Name                                                                   |
+| --- | ----------------------------------------------------------------------------|
+| Step 1   | [**Add IP Route**](#introduction-to-fortigate-firewall) |
+| Step 2   | [**Add Routing table**](#interface-configurations-and-firewall-policies) | 
+| Step 3   | [**Add Mangle roles**](#high-availability) |
+| Step 4   | [**Input ISP1**](#firewall-authentication) |
+| Step 5   | [**Input ISP2**](#security-profiles) |
+| Step 6   | [**Output ISP1**](#logging-and-monitoring) |
+| Step 7   | [**Output ISP2**](#basic-ipsec-vpn) |
+| Step 8   | [**Add Route to ISP**](#ssl-vpn)  Upcoming..| 
+| Step 9   | [****](#Upcoming) Upcoming.. |
+
+# Step 1
+    ## Add IP Route
