@@ -33,12 +33,12 @@
 # Step1 Add IP Route
 
   ### Add Route ISP1
-    **Click on IP: Route —> Add**
-    - **Destination**: 0.0.0.0/0
-    - **Gateway**: 49.156.43.89
-    - **Distance**: 1
-    - **Check Gateway**: Ping
-    - **Click OK**
+  **Click on IP: Route —> Add**
+  - **Destination**: 0.0.0.0/0
+  - **Gateway**: 49.156.43.89
+  - **Distance**: 1
+  - **Check Gateway**: Ping
+  - **Click OK**
     /ip route add dst-address=0.0.0.0/0 gateway=49.156.43.89 check-gateway=ping distance=1
  ## Image:
     
