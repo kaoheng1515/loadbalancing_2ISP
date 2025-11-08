@@ -30,7 +30,11 @@
   ## Information ISP 1&2
     1. ISP1 Ip address 49.156.43.94/29 Default Gateway 49.156.43.89
     2. ISP2 Ip address 96.9.66.101/25 Default Gateway 96.9.66.101
-# Step 1
- ### Add IP Route
+# Step1 Add IP Route
+  ### Add Route ISP1
+    - /ip route add dst-address=0.0.0.0/0 gateway=103.90.150.221 check-gateway=ping distance=1 comment="Default route via ISP1"
+    - /ip route add dst-address=0.0.0.0/0 gateway=124.10.128.201 check-gateway=ping distance=1 comment="Default route via ISP2"
+
+    
 
     
