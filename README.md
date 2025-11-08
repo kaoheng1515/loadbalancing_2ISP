@@ -16,14 +16,14 @@
 
 | No | Name                                                                   |
 | --- | ----------------------------------------------------------------------------|
-| Step 1   | [**Add IP Route**](#introduction-to-fortigate-firewall) |
+| Step 1   | [**Add IP Route**](#Step1-Add-IP-Route) |
 | Step 2   | [**Add Routing table**](#interface-configurations-and-firewall-policies) | 
 | Step 3   | [**Add Mangle roles**](#high-availability) |
 | Step 4   | [**Input ISP1**](#firewall-authentication) |
 | Step 5   | [**Input ISP2**](#security-profiles) |
 | Step 6   | [**Output ISP1**](#logging-and-monitoring) |
 | Step 7   | [**Output ISP2**](#basic-ipsec-vpn) |
-| Step 8   | [**Add Route to ISP**](#ssl-vpn)  Upcoming..| 
+| Step 8   | [**Add Route to ISP**](#ssl-vpn)| 
 | Step 9   | [****](#Upcoming) Upcoming.. |
 
 # Getting Started: 
