@@ -44,7 +44,10 @@
     /ip route add dst-address=0.0.0.0/0 gateway=49.156.43.89 check-gateway=ping distance=1
   ```
  ## Image:
-  <img src="image/route-isp1.png" alt="Route ISP1" style="width:100%; height:auto;"/>
+  <p align="center">
+  <img src="image/route-isp1.png" alt="Route ISP1" style="width:90%; height:auto; border-radius:10px;"/>
+</p>
+
 
   ### Add Route ISP2
   **Click on IP: Route —> Add**
