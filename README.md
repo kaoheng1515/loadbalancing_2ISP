@@ -45,7 +45,7 @@
   ```
  ## Image:
   <p align="center">
-  <img src="image/route-isp1.png" alt="Route ISP1" style="width:90%; height:auto; border-radius:10px;"/>
+  <img src="image/route-isp1.png" alt="Route ISP1" width="70%">
 </p>
 
 
