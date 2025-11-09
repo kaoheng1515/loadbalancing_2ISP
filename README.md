@@ -46,7 +46,7 @@
  ## Image:
   <p align="center">
   <img src="image/route-isp1.png" alt="Route ISP1" width="55%">
-</p>
+  </p>
 
 
   ### Add Route ISP2
@@ -61,7 +61,9 @@
     /ip route add dst-address=0.0.0.0/0 gateway=96.9.66.1 check-gateway=ping distance=1
   ```
  ## Image:
-    
+  <p align="center">
+  <img src="image/route-isp2.png" alt="Route ISP2" width="55%">
+  </p>
 
     
 
